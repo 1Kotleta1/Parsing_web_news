@@ -1,0 +1,173 @@
+2026-03-24 08:22:37,419 [INFO] [RBC] API attempt 1/3 params={}
+2026-03-24 08:22:37,420 [INFO] [RIA] HTTP GET: https://ria.ru/
+2026-03-24 08:22:37,421 [INFO] [LENTA] HTTP GET: https://lenta.ru/
+2026-03-24 08:22:37,422 [INFO] [TPROGER] HTTP GET: https://tproger.ru/news
+2026-03-24 08:22:37,424 [INFO] [REN] HTTP GET: https://ren.tv/news
+2026-03-24 08:22:37,425 [INFO] [MK] HTTP GET: https://www.mk.ru/news/
+2026-03-24 08:22:37,426 [INFO] [M24] HTTP GET: https://www.m24.ru/news
+2026-03-24 08:22:37,431 [INFO] [GAZETA-SITEMAP] HTTP GET: https://www.gazeta.ru/sitemap_news.xml
+2026-03-24 08:22:37,432 [INFO] [RG-FEED] HTTP GET: https://rg.ru/xml/index.xml
+2026-03-24 08:22:37,434 [INFO] [5TV] HTTP GET: https://www.5-tv.ru/news/
+2026-03-24 08:22:38,405 [WARNING] [RBC] API attempt 1 failed: 403 Client Error: Forbidden for url: https://www.rbc.ru/api/search/v1/search/ajax-cc
+2026-03-24 08:22:38,425 [INFO] [RIA] HTTP 200, bytes=174479
+2026-03-24 08:22:38,463 [INFO] [RIA] Extracted links from main page: 30
+2026-03-24 08:22:38,463 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/sevastopol-2082553570.html
+2026-03-24 08:22:38,604 [INFO] [RBC] API attempt 2/3 params={}
+2026-03-24 08:22:38,629 [INFO] [RG-FEED] HTTP 200, bytes=58983
+2026-03-24 08:22:38,631 [INFO] [RG] HTTP GET: https://rg.ru/2026/03/24/omoda-s5-2026-modelnogo-goda-krasivee-effektivnee-umnee.html
+2026-03-24 08:22:38,698 [INFO] [REN] HTTP 200, bytes=149525
+2026-03-24 08:22:38,728 [INFO] [REN] Extracted links from main page: 5
+2026-03-24 08:22:38,729 [INFO] [REN] HTTP GET: https://ren.tv/news/v-rossii
+2026-03-24 08:22:38,768 [INFO] [TPROGER] HTTP 200, bytes=217053
+2026-03-24 08:22:38,786 [WARNING] [RBC] API attempt 2 failed: 403 Client Error: Forbidden for url: https://www.rbc.ru/api/search/v1/search/ajax-cc
+2026-03-24 08:22:38,791 [INFO] [TPROGER] Extracted links from main page: 5
+2026-03-24 08:22:38,794 [INFO] [GAZETA-SITEMAP] HTTP 200, bytes=27701
+2026-03-24 08:22:38,794 [INFO] [TPROGER] HTTP GET: https://tproger.ru/news/emulyator-processora-x86-na-chistom-css--ni-strochki-javascript
+2026-03-24 08:22:38,803 [INFO] [M24] HTTP 200, bytes=91533
+2026-03-24 08:22:38,852 [INFO] [M24] Extracted links from main page: 5
+2026-03-24 08:22:38,853 [INFO] [MK] HTTP 200, bytes=273892
+2026-03-24 08:22:38,853 [INFO] [M24] HTTP GET: https://www.m24.ru/news/mehr-Moskvy/24032026/885121
+2026-03-24 08:22:38,918 [INFO] [MK] Extracted links from main page: 5
+2026-03-24 08:22:38,919 [INFO] [MK] HTTP GET: https://www.mk.ru/politics/2026/03/24/kitay-gotovit-okean-k-voyne-s-ssha-nachato-skrytoe-kartografirovanie.html
+2026-03-24 08:22:38,968 [INFO] [RG] HTTP 200, bytes=142995
+2026-03-24 08:22:38,990 [INFO] [RBC] API attempt 3/3 params={}
+2026-03-24 08:22:39,004 [INFO] [RG] HTTP GET: https://rg.ru/2026/03/24/rossiianam-rasskazali-vygodno-li-brat-otpusk-v-aprele.html
+2026-03-24 08:22:39,006 [INFO] [REN] HTTP 200, bytes=157333
+2026-03-24 08:22:39,032 [INFO] [REN] HTTP GET: https://ren.tv/news/v-mire
+2026-03-24 08:22:39,036 [INFO] [RIA] HTTP 200, bytes=201750
+2026-03-24 08:22:39,092 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/fsb-2082555100.html
+2026-03-24 08:22:39,093 [INFO] [5TV] HTTP 200, bytes=123072
+2026-03-24 08:22:39,122 [INFO] [5TV] Extracted links from entry pages: 5
+2026-03-24 08:22:39,123 [INFO] [5TV] HTTP GET: https://www.5-tv.ru/news/5062200/sotrudniki-fsb-sorvali-popytki-ukrainskih-specsluzb-ustroit-terakty-vmoskve-ipodmoskove/
+2026-03-24 08:22:39,179 [INFO] [MK] HTTP 200, bytes=274888
+2026-03-24 08:22:39,211 [WARNING] [RBC] API attempt 3 failed: 403 Client Error: Forbidden for url: https://www.rbc.ru/api/search/v1/search/ajax-cc
+2026-03-24 08:22:39,262 [INFO] [MK] HTTP GET: https://www.mk.ru/social/2026/03/24/v-rf-utverdili-pravila-dlya-spiska-strategicheski-vazhnykh-lekarstv.html
+2026-03-24 08:22:39,292 [INFO] [M24] HTTP 200, bytes=101776
+2026-03-24 08:22:39,347 [INFO] [M24] HTTP GET: https://www.m24.ru/news/obshchestvo/24032026/885161
+2026-03-24 08:22:39,350 [INFO] [TPROGER] HTTP 200, bytes=283490
+2026-03-24 08:22:39,377 [INFO] [TPROGER] HTTP GET: https://tproger.ru/news/openai-vypustila-gpt-5-4--million-tokenov--upravlenie-kompyutero
+2026-03-24 08:22:39,410 [WARNING] [RBC] API request failed on page 1: 403 Client Error: Forbidden for url: https://www.rbc.ru/api/search/v1/search/ajax-cc
+2026-03-24 08:22:39,411 [INFO] [RBC-RSS] Probe feed: https://rsshub.app/rbc/short_news
+2026-03-24 08:22:39,467 [INFO] [REN] HTTP 200, bytes=165253
+2026-03-24 08:22:39,487 [INFO] [REN] HTTP GET: https://ren.tv/news/politika
+2026-03-24 08:22:39,506 [INFO] [LENTA] HTTP 200, bytes=129980
+2026-03-24 08:22:39,539 [INFO] [LENTA] Extracted links from main page: 5
+2026-03-24 08:22:39,540 [INFO] [LENTA] HTTP GET: https://lenta.ru/news/2026/03/24/ob-yavleno-o-slozhnoy-situatsii-posle-moschnogo-vzryva-v-sevastopole/
+2026-03-24 08:22:39,544 [INFO] [RG] HTTP 200, bytes=80135
+2026-03-24 08:22:39,587 [INFO] [RIA] HTTP 200, bytes=170644
+2026-03-24 08:22:39,637 [INFO] [RG] HTTP GET: https://rg.ru/2026/03/24/reg-ufo/byvshij-vysokopostavlennyj-sudia-ne-smog-vernut-iziatuiu-molochnuiu-fermu.html
+2026-03-24 08:22:39,686 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/vsu-2082533917.html
+2026-03-24 08:22:39,689 [INFO] [MK] HTTP 200, bytes=217616
+2026-03-24 08:22:39,765 [INFO] [MK] HTTP GET: https://www.mk.ru/politics/2026/03/24/ssha-i-iran-smogut-provesti-peregovory-pri-posrednichestve-turcii-i-drugikh-stran.html
+2026-03-24 08:22:39,768 [INFO] [5TV] HTTP 200, bytes=97340
+2026-03-24 08:22:39,782 [INFO] [5TV] HTTP GET: https://www.5-tv.ru/news/5062199/sportsmen-samputirovannymi-konecnostami-zastrelil-druga-ipopytalsa-skrytsa-naavto-aii/
+2026-03-24 08:22:39,879 [INFO] [LENTA] HTTP 200, bytes=52443
+2026-03-24 08:22:39,894 [INFO] [LENTA] HTTP GET: https://lenta.ru/news/2026/03/24/stali-izvestny-laureaty-kinopremii-nika/
+2026-03-24 08:22:39,897 [INFO] [TPROGER] HTTP 200, bytes=302297
+2026-03-24 08:22:39,928 [INFO] [TPROGER] HTTP GET: https://tproger.ru/news/sajt-roskomnadzora-upal---chto-izvestno-na-dannyj-moment
+2026-03-24 08:22:39,930 [INFO] [REN] HTTP 200, bytes=170154
+2026-03-24 08:22:39,950 [INFO] [REN] HTTP GET: https://ren.tv/news/ekonomika
+2026-03-24 08:22:40,011 [INFO] [MK] HTTP 200, bytes=273374
+2026-03-24 08:22:40,076 [INFO] [MK] HTTP GET: https://www.mk.ru/social/2026/03/24/rossiyanam-nazvali-prostye-sposoby-otdykhat-dolshe-polozhennogo-za-schyot-gramotnogo-vybora-dat.html
+2026-03-24 08:22:40,077 [INFO] [LENTA] HTTP 200, bytes=51894
+2026-03-24 08:22:40,079 [INFO] [RG] HTTP 200, bytes=84573
+2026-03-24 08:22:40,093 [INFO] [LENTA] HTTP GET: https://lenta.ru/news/2026/03/24/novyy-verhovnyy-lider-irana-dal-soglasie-na-peregovory-s-ssha/
+2026-03-24 08:22:40,113 [INFO] [RG] HTTP GET: https://rg.ru/2026/03/24/reg-sibfo/urologi-udalili-u-omichki-kamen-razmerom-s-bolshoj-kulak.html
+2026-03-24 08:22:40,229 [WARNING] [RBC] RSSHub forbidden (403): https://rsshub.app/rbc/short_news
+2026-03-24 08:22:40,230 [INFO] [RBC-RSS] Probe feed: https://rsshub.rssforever.com/rbc/short_news
+2026-03-24 08:22:40,257 [INFO] [LENTA] HTTP 200, bytes=51569
+2026-03-24 08:22:40,272 [INFO] [LENTA] HTTP GET: https://lenta.ru/news/2026/03/24/v-ssha-zhestko-vyskazalis-ob-idee-nachat-nazemnuyu-operatsiyu-v-irane/
+2026-03-24 08:22:40,364 [INFO] [5TV] HTTP 200, bytes=87122
+2026-03-24 08:22:40,380 [INFO] [5TV] HTTP GET: https://www.5-tv.ru/news/5062148/semenovic-otkazalas-otsub-vpolzu-ekologicnoj-odezdy/
+2026-03-24 08:22:40,427 [INFO] [MK] HTTP 200, bytes=255284
+2026-03-24 08:22:40,478 [INFO] [LENTA] HTTP 200, bytes=53041
+2026-03-24 08:22:40,487 [INFO] [MK] HTTP GET: https://www.mk.ru/auto/2026/03/24/pokupateli-ekonomyat-do-4-mln-rubley-pri-pokupke-avto-cherez-sosednyuyu-stranu.html
+2026-03-24 08:22:40,499 [INFO] [LENTA] HTTP GET: https://lenta.ru/news/2026/03/24/konkurent-rossii-obogatilsya-na-postavkah-vazhneyshego-vida-topliva/
+2026-03-24 08:22:40,500 [INFO] [RIA] HTTP 200, bytes=177677
+2026-03-24 08:22:40,502 [INFO] [TPROGER] HTTP 200, bytes=275606
+2026-03-24 08:22:40,567 [INFO] [TPROGER] HTTP GET: https://tproger.ru/news/vywla-nano-banana-2---novoe-pokolenie-ii-generatora-kartinok-ot-
+2026-03-24 08:22:40,577 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/sk-2082543035.html
+2026-03-24 08:22:40,639 [INFO] [RG] HTTP 200, bytes=74618
+2026-03-24 08:22:40,652 [INFO] [RG] HTTP GET: https://rg.ru/2026/03/24/v-mozge-ejnshtejna-nashli-novye-priznaki-genialnosti.html
+2026-03-24 08:22:40,696 [INFO] [REN] HTTP 200, bytes=171305
+2026-03-24 08:22:40,779 [INFO] [REN] HTTP GET: https://ren.tv/news/sport
+2026-03-24 08:22:40,782 [INFO] [LENTA] HTTP 200, bytes=55612
+2026-03-24 08:22:40,798 [INFO] [MK] HTTP 200, bytes=268735
+2026-03-24 08:22:40,922 [INFO] [5TV] HTTP 200, bytes=75664
+2026-03-24 08:22:40,938 [INFO] [5TV] HTTP GET: https://www.5-tv.ru/news/5062202/repera-oxxxymiron-zaocno-prigovorili-k320-casam-obazatelnyh-rabot/
+2026-03-24 08:22:40,974 [INFO] [RIA] HTTP 200, bytes=169647
+2026-03-24 08:22:41,012 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/vzryv-2082528829.html
+2026-03-24 08:22:41,050 [INFO] [M24] HTTP 200, bytes=102063
+2026-03-24 08:22:41,101 [INFO] [M24] HTTP GET: https://www.m24.ru/news/zhivotnye/24032026/885159
+2026-03-24 08:22:41,244 [INFO] [RG] HTTP 200, bytes=67861
+2026-03-24 08:22:41,451 [INFO] [5TV] HTTP 200, bytes=76121
+2026-03-24 08:22:41,464 [INFO] [5TV] HTTP GET: https://www.5-tv.ru/news/5062189/pocemu-napohoronah-prinato-brosat-zemlu-vmogilu-korni-drevnego-obrada-aii/
+2026-03-24 08:22:41,516 [INFO] [TPROGER] HTTP 200, bytes=276803
+2026-03-24 08:22:41,544 [INFO] [TPROGER] HTTP GET: https://tproger.ru/news/kernel-org-nedostupen--a-microsoft-obnovlyaetsya--chto-ne-tak-s-fil
+2026-03-24 08:22:41,546 [INFO] [RIA] HTTP 200, bytes=176779
+2026-03-24 08:22:41,593 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/bpla-2082546805.html
+2026-03-24 08:22:41,630 [INFO] [REN] HTTP 200, bytes=171184
+2026-03-24 08:22:42,043 [INFO] [TPROGER] HTTP 200, bytes=273873
+2026-03-24 08:22:42,085 [INFO] [5TV] HTTP 200, bytes=80202
+2026-03-24 08:22:42,104 [INFO] [M24] HTTP 200, bytes=100879
+2026-03-24 08:22:42,156 [INFO] [M24] HTTP GET: https://www.m24.ru/news/politika/24032026/885157
+2026-03-24 08:22:42,166 [INFO] [RIA] HTTP 200, bytes=178722
+2026-03-24 08:22:42,205 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/ukraina-2082534701.html
+2026-03-24 08:22:42,699 [WARNING] [RBC] RSSHub feed unavailable: https://rsshub.rssforever.com/rbc/short_news (503 Server Error: Service Unavailable for url: https://rsshub.rssforever.com/rbc/short_news)
+2026-03-24 08:22:42,699 [INFO] [RBC-RSS] Probe feed: https://rsshub.pseudoyu.com/rbc/short_news
+2026-03-24 08:22:42,779 [INFO] [M24] HTTP 200, bytes=102020
+2026-03-24 08:22:42,869 [INFO] [M24] HTTP GET: https://www.m24.ru/news/obshchestvo/24032026/885028
+2026-03-24 08:22:42,870 [INFO] [RIA] HTTP 200, bytes=187041
+2026-03-24 08:22:42,907 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/gosudarstvo-2082519271.html
+2026-03-24 08:22:43,450 [INFO] [RIA] HTTP 200, bytes=176509
+2026-03-24 08:22:43,487 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/iran-2082528541.html
+2026-03-24 08:22:43,488 [INFO] [M24] HTTP 200, bytes=102597
+2026-03-24 08:22:43,557 [WARNING] [RBC] RSSHub feed unavailable: https://rsshub.pseudoyu.com/rbc/short_news (503 Server Error: Service Unavailable for url: https://rsshub.pseudoyu.com/rbc/short_news)
+2026-03-24 08:22:43,557 [INFO] [RBC-RSS] Probe feed: https://rsshub.feeded.xyz/rbc/short_news
+2026-03-24 08:22:44,034 [INFO] [RIA] HTTP 200, bytes=185301
+2026-03-24 08:22:44,072 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/pensiya-2082517379.html
+2026-03-24 08:22:45,273 [INFO] [RIA] HTTP 200, bytes=176888
+2026-03-24 08:22:45,309 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/vzyskanie-2082523554.html
+2026-03-24 08:22:45,975 [INFO] [RIA] HTTP 200, bytes=178852
+2026-03-24 08:22:46,009 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/daniya-2082453151.html
+2026-03-24 08:22:46,479 [INFO] [RIA] HTTP 200, bytes=214908
+2026-03-24 08:22:46,516 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/izrail-2082491798.html
+2026-03-24 08:22:47,081 [INFO] [RIA] HTTP 200, bytes=181326
+2026-03-24 08:22:47,117 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/voyna-2082457369.html
+2026-03-24 08:22:47,694 [INFO] [RIA] HTTP 200, bytes=202895
+2026-03-24 08:22:47,734 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/svo-2082361757.html
+2026-03-24 08:22:48,412 [INFO] [RIA] HTTP 200, bytes=156769
+2026-03-24 08:22:48,447 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/ugroza-2082543521.html
+2026-03-24 08:22:48,987 [INFO] [RIA] HTTP 200, bytes=176641
+2026-03-24 08:22:49,088 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/vzryv-2082531311.html
+2026-03-24 08:22:49,740 [INFO] [RIA] HTTP 200, bytes=160919
+2026-03-24 08:22:49,777 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/ukraina-2082449903.html
+2026-03-24 08:22:50,367 [INFO] [RIA] HTTP 200, bytes=228832
+2026-03-24 08:22:50,406 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/udobreniya-2082478323.html
+2026-03-24 08:22:50,880 [INFO] [RIA] HTTP 200, bytes=210218
+2026-03-24 08:22:50,920 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/kolumbiya-2082531807.html
+2026-03-24 08:22:51,459 [INFO] [RIA] HTTP 200, bytes=167794
+2026-03-24 08:22:51,495 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/ukraina-2082528141.html
+2026-03-24 08:22:51,561 [WARNING] [RBC] RSSHub feed unavailable: https://rsshub.feeded.xyz/rbc/short_news (HTTPSConnectionPool(host='rsshub.feeded.xyz', port=443): Max retries exceeded with url: /rbc/short_news (Caused by NameResolutionError("HTTPSConnection(host='rsshub.feeded.xyz', port=443): Failed to resolve 'rsshub.feeded.xyz' ([Errno -3] Temporary failure in name resolution)")))
+2026-03-24 08:22:51,562 [INFO] [RBC] Collected records in 24h window: 0
+2026-03-24 08:22:52,021 [INFO] [RIA] HTTP 200, bytes=167339
+2026-03-24 08:22:52,064 [INFO] [RIA] HTTP GET: https://ria.ru/20220622/spetsoperatsiya-1795199102.html
+2026-03-24 08:22:52,492 [INFO] [RIA] HTTP 200, bytes=51201
+2026-03-24 08:22:52,497 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/parfyus-2082525639.html
+2026-03-24 08:22:53,028 [INFO] [RIA] HTTP 200, bytes=176410
+2026-03-24 08:22:53,064 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/trump-2082551647.html
+2026-03-24 08:22:53,591 [INFO] [RIA] HTTP 200, bytes=177446
+2026-03-24 08:22:53,627 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/iran-2082572245.html?rcmd_alg=slotter
+2026-03-24 08:22:54,671 [INFO] [RIA] HTTP 200, bytes=177087
+2026-03-24 08:22:54,709 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/penza-2082539486.html?rcmd_alg=slotter
+2026-03-24 08:22:55,687 [INFO] [RIA] HTTP 200, bytes=167854
+2026-03-24 08:22:55,722 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/mvd-2082540072.html?rcmd_alg=slotter
+2026-03-24 08:22:56,445 [INFO] [RIA] HTTP 200, bytes=185117
+2026-03-24 08:22:56,482 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/krizis-2082575329.html?rcmd_alg=slotter
+2026-03-24 08:22:56,993 [INFO] [RIA] HTTP 200, bytes=171834
+2026-03-24 08:22:57,103 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/podrazdeleniya-2082556641.html?rcmd_alg=slotter
+2026-03-24 08:22:57,627 [INFO] [RIA] HTTP 200, bytes=168440
+2026-03-24 08:22:57,668 [INFO] [RIA] HTTP GET: https://ria.ru/20260324/uchenye-2082015103.html
+2026-03-24 08:22:58,271 [INFO] [RIA] HTTP 200, bytes=248869
+2026-03-24 08:22:58,347 [INFO] Saved JSON: /app/news/news_2026-03-24.json
+2026-03-24 08:22:58,348 [INFO] Combined result count: 70
